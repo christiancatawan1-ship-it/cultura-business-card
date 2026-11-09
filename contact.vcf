@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Talili;Ismael N.;;Dr.;
-FN:Dr. Ismael N. Talili
-ORG:University of Science and Technology of Southern Philippines;Office of the Presidential Assistant for External Affairs
-TITLE:Presidential Assistant for External Affairs
-TEL;TYPE=WORK,CELL:+639171333065
-EMAIL;TYPE=WORK:ismael.talili@ustp.edu.ph
+N:Cultura II;Ambrosio B.;;Dr.;
+FN:Dr. Ambrosio B. Cultura II
+ORG:University of Science and Technology of Southern Philippines;Office of the President
+TITLE:USTP System President
+TEL;TYPE=WORK,CELL:+639175588759
+EMAIL;TYPE=WORK:ambrosio.cultura@ustp.edu.ph; president.office@ustp.edu.ph
 URL:https://www.ustp.edu.ph
 ADR;TYPE=WORK:;;CM Recto Avenue\, Lapasan;Cagayan de Oro City;;;Philippines
 END:VCARD
